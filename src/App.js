@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import React,{useEffect}from "react";
 import "./App.css";
 import Header from "./components/headers/Header";
@@ -21,6 +22,7 @@ function App() {
   }, []);
   return (
     <>
+    <SpeedInsights/>
       <Header />
       <main className="main">
         <Home />
