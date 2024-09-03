@@ -10,7 +10,7 @@ const Info = () => {
           Experience
         </h3>
         <span className="about__subtitle" style={{ color: "grey" }}>
-          2 months Internship
+          4 months Internship
         </span>
       </div>
 

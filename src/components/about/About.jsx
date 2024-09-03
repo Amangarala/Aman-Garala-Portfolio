@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 
 import AboutImg from "../../assets/AmanAbout.jpg";
-import Resume from "../../assets/Aman's Resume.pdf";
+import Resume from "../../assets/AmanGarala_Resume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -28,7 +28,7 @@ const About = () => {
             <Info />
 
             <p className="about__description">
-              I am a third-year B.Tech student in Information Technology at
+              I am a final-year B.Tech student in Information Technology at
               Charotar University of Science and Technology. My passion lies in
               competitive programming, particularly in Java. With a strong
               background in web development, I have also worked as a mobile app
